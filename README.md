@@ -1,5 +1,5 @@
 # SELF-SERVICE TICKETING KIOSK FOR CINEMAS
-The software is used to help customers to buy movie tickets. 
+The software is used to help customers to buy movie tickets. We developed the software using agile development.
 
 Location of java files:
 All code is in the .\Software(Source code)\src\com\code, and I use three folders called "dom", "gui", "javabean" to store our java files.
