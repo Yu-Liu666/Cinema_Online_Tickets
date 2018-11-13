@@ -1,4 +1,4 @@
-# Cinema_Online_Tickets
+# SELF-SERVICE TICKETING KIOSK FOR CINEMAS
 The software is used to help customers to buy movie tickets. 
 
 Location of java files:
