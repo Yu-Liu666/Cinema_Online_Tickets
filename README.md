@@ -21,7 +21,7 @@ Configuration of our software:
 1. You can open command line in .\Software(Source code)        
 or you can open command line and then input:  cd "the location of current folder\Software(Source code)"
 
-2.Then you should input: mkdir bin                    
+2. Then you should input: mkdir bin                    
 All .class files will be stored in bin.
 
 3. Then you should input: javac -d bin/ src/com/code/javabean/*.java src/com/code/dom/*.java src/com/code/gui/*.java
