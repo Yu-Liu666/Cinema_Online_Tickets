@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<administrators>
+
+	<administrator>
+		<id>10010001</id>
+		<password>p001</password>
+	</administrator>
+	
+</administrators>

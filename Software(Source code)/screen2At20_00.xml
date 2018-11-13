@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<screen>
+	<seat>
+		<seatId>D8</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>D7</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>D6</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>D5</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>D4</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>D3</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>D2</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>D1</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>C6</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>false</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>C5</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>false</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>C4</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>C3</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>C2</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>C1</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>B6</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>B5</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>B4</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>B3</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>B2</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>B1</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>A6</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>A5</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>A4</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>A3</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>A2</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+	<seat>
+		<seatId>A1</seatId>
+		<seatMov>KONG-SKULL ISLAND</seatMov>
+		<seatIsEmpty>true</seatIsEmpty>
+	</seat>
+</screen>

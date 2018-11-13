@@ -1,0 +1,7 @@
+Ticket ID: 	|	33242433
+Film Name: 	|	KONG-SKULL ISLAND
+Screen Name: 	|	screen 2
+Seat Location: 	|	C6
+Time: 		|	20:00
+Tiket Type: 	|	senior
+Ticket Price: 	|	3.4

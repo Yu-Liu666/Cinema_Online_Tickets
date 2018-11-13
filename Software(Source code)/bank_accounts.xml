@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<accounts>
+
+	<account>
+		<name>XIE Yongguang</name>
+		<accountNum>00011001</accountNum>
+		<accountPassword>p001</accountPassword>
+		<balance>415.15005</balance>
+	</account>
+	
+	<account>
+		<name>Damien Chazelle</name>
+		<accountNum>00022002</accountNum>
+		<accountPassword>p002</accountPassword>
+		<balance>0</balance>
+	</account>
+	
+</accounts>

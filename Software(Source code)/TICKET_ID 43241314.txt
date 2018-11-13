@@ -1,0 +1,7 @@
+Ticket ID: 	|	43241314
+Film Name: 	|	KONG-SKULL ISLAND
+Screen Name: 	|	screen 2
+Seat Location: 	|	C5
+Time: 		|	20:00
+Tiket Type: 	|	adult
+Ticket Price: 	|	17.0

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetables>
+
+	<timetable>
+		<id>s1t10:00</id>
+		<screen>1</screen>
+		<time>10:00</time>
+		<movie>BEAUTY AND THE BEAST</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s1t12:30</id>
+		<screen>1</screen>
+		<time>12:30</time>
+		<movie>BEAUTY AND THE BEAST</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s1t15:30</id>
+		<screen>1</screen>
+		<time>15:30</time>
+		<movie>KONG-SKULL ISLAND</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s1t18:30</id>
+		<screen>1</screen>
+		<time>18:30</time>
+		<movie>KONG-SKULL ISLAND</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s1t21:00</id>
+		<screen>1</screen>
+		<time>21:00</time>
+		<movie>KONG-SKULL ISLAND</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s2t10:30</id>
+		<screen>2</screen>
+		<time>10:30</time>
+		<movie>LA LA LAND</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s2t13:00</id>
+		<screen>2</screen>
+		<time>13:00</time>
+		<movie>LA LA LAND</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s2t16:00</id>
+		<screen>2</screen>
+		<time>16:00</time>
+		<movie>MOONLIGHT</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s2t18:00</id>
+		<screen>2</screen>
+		<time>18:00</time>
+		<movie>MOONLIGHT</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s2t20:00</id>
+		<screen>2</screen>
+		<time>20:00</time>
+		<movie>KONG-SKULL ISLAND</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s3t10:30</id>
+		<screen>3</screen>
+		<time>10:30</time>
+		<movie>BEAUTY AND THE BEAST</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s3t13:00</id>
+		<screen>3</screen>
+		<time>13:00</time>
+		<movie>BEAUTY AND THE BEAST</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s3t15:30</id>
+		<screen>3</screen>
+		<time>15:30</time>
+		<movie>LOGAN</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s3t18:00</id>
+		<screen>3</screen>
+		<time>18:00</time>
+		<movie>LOGAN</movie>
+	</timetable>
+	
+	<timetable>
+		<id>s3t20:30</id>
+		<screen>3</screen>
+		<time>20:30</time>
+		<movie>KONG-SKULL ISLAND</movie>
+	</timetable>
+	
+</timetables>

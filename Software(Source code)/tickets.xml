@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tickets>
+<ticket>
+<filmName>KONG-SKULL ISLAND</filmName>
+<ticketId>11114441</ticketId>
+<timeStr>20:30</timeStr>
+<screenName>screen 3</screenName>
+<ticketType>senior</ticketType>
+<seatLocation>D6</seatLocation>
+<ticketPrice>3.4</ticketPrice>
+<studentId> </studentId>
+</ticket>
+<ticket>
+<filmName>KONG-SKULL ISLAND</filmName>
+<ticketId>31341233</ticketId>
+<timeStr>21:00</timeStr>
+<screenName>screen 1</screenName>
+<ticketType>senior</ticketType>
+<seatLocation>D6</seatLocation>
+<ticketPrice>3.4</ticketPrice>
+<studentId> </studentId>
+</ticket>
+<ticket>
+<filmName>KONG-SKULL ISLAND</filmName>
+<ticketId>33242433</ticketId>
+<timeStr>20:00</timeStr>
+<screenName>screen 2</screenName>
+<ticketType>senior</ticketType>
+<seatLocation>C6</seatLocation>
+<ticketPrice>3.4</ticketPrice>
+<studentId> </studentId>
+</ticket>
+<ticket>
+<filmName>KONG-SKULL ISLAND</filmName>
+<ticketId>43241314</ticketId>
+<timeStr>20:00</timeStr>
+<screenName>screen 2</screenName>
+<ticketType>adult</ticketType>
+<seatLocation>C5</seatLocation>
+<ticketPrice>17.0</ticketPrice>
+<studentId> </studentId>
+</ticket>
+</tickets>
